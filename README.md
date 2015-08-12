@@ -1,0 +1,3 @@
+# pbinfo
+ 
+ powerbuilder sample exam 
